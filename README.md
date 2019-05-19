@@ -1,1 +1,4 @@
-# hello-worl
+# hello-world
+
+hello everyone
+i'm Jiayu Huang
